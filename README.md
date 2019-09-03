@@ -12,5 +12,4 @@ Web-MVC-Socket
 功能演示
 --------
 测试账号：cwm  密码：123<br>
-* 注册  
 ![](https://github.com/chenweiming812/Web-MVC-Socket/raw/master/static/register.gif)

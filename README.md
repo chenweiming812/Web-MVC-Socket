@@ -14,7 +14,8 @@ Web-MVC-Socket
 测试账号：181  密码：111<br>
 * 注册<br>
 ![](https://github.com/chenweiming812/Web-MVC-Socket/raw/master/static/register.gif)
-* 登录 
+* 登录<br>
+![](https://github.com/chenweiming812/Web-MVC-Socket/raw/master/static/login.gif)
 * 发表微博和评论
 * 编辑、删除微博和评论 
 

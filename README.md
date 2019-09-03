@@ -12,9 +12,9 @@ Web-MVC-Socket
 功能演示
 --------
 测试账号：181  密码：111<br>
-* 注册<br>
+* 注册<br><br>
 ![](https://github.com/chenweiming812/Web-MVC-Socket/raw/master/static/register.gif)
-* 登录<br>
+* 登录<br><br>
 ![](https://github.com/chenweiming812/Web-MVC-Socket/raw/master/static/login.gif)
 * 发表微博和评论
 * 编辑、删除微博和评论 

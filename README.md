@@ -20,7 +20,8 @@ Web-MVC-Socket
 ![](https://github.com/chenweiming812/Web-MVC-Socket/raw/master/static/weibo.gif)
 * 编辑、删除微博和评论 <br><br>
 ![](https://github.com/chenweiming812/Web-MVC-Socket/raw/master/static/edit.gif)
-<br><br>
+<br>
+
 依赖
 ----
 * Python3 <br>

@@ -12,4 +12,7 @@ Web-MVC-Socket
 功能演示
 --------
 测试账号：cwm  密码：123<br>
-![](https://github.com/chenweiming812/Web-MVC-Socket/raw/master/static/register.gif)
+* 注册 ![](https://github.com/chenweiming812/Web-MVC-Socket/raw/master/static/register.gif) <br>
+* 登录 ![](https://github.com/chenweiming812/Web-MVC-Socket/raw/master/static/login.gif)<br>
+* 发表微博和评论 ![](https://github.com/chenweiming812/Web-MVC-Socket/raw/master/static/weibo.gif)<br>
+* 编辑、删除微博和评论 ![](https://github.com/chenweiming812/Web-MVC-Socket/raw/master/static/edit.gif)<br>

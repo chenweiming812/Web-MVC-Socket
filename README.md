@@ -16,6 +16,7 @@ Web-MVC-Socket
 ![](https://github.com/chenweiming812/Web-MVC-Socket/raw/master/static/register.gif)
 * 登录<br><br>
 ![](https://github.com/chenweiming812/Web-MVC-Socket/raw/master/static/login.gif)
-* 发表微博和评论
-* 编辑、删除微博和评论 
-
+* 发表微博和评论<br><br>
+![](https://github.com/chenweiming812/Web-MVC-Socket/raw/master/static/weibo.gif)
+* 编辑、删除微博和评论 <br><br>
+![](https://github.com/chenweiming812/Web-MVC-Socket/raw/master/static/edit.gif)

@@ -73,10 +73,8 @@ def comment_update(request):
     form = request.form()
     content = form['content']
     comment_id = int(form['id'])
-    c = Comment.one(id=comment_id)
 
-    c.content = content
-    c.save()
+    Comment.update(comment_id, content=content)
 
     return redirect('/weibo/index')
 
